@@ -56,4 +56,13 @@ input[type="text"] {
 
 }
 
-
+button {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding: 0.25rem;
+    width: 200px;
+    font-size: 1rem;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 0.25rem;
+    outline: none;
+}
